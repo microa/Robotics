@@ -89,7 +89,7 @@ def readModbus(ser, DeviceID, FunctionID, RegIDH, RegIDL, RegValH, RegValL):
             RCV = ser.read(ser.in_waiting)
             #print (RCV)
             probe = crc16(bytes(RCV))
-            if (probe == "0000"):  # 退出标志
+            if (probe == "0000"):  # Exit Marker
                 print("Received:%d bytes: %s" % (len(RCV), RCV))
                 break
             elif(temp != RCV):
@@ -97,7 +97,7 @@ def readModbus(ser, DeviceID, FunctionID, RegIDH, RegIDL, RegValH, RegValL):
                 temp = RCV
                 print ("Reconstruction RCV Result: ", RCV)
                 probe = crc16(bytes(RCV))
-                if (probe == "0000"):  # 退出标志
+                if (probe == "0000"):  # Exit Marker
                     print("Received:%d bytes: %s" % (len(RCV), RCV))
                     break
 
