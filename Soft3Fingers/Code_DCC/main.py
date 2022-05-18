@@ -28,13 +28,13 @@ def f3(q, x):
 if __name__ == '__main__':
     x1 = 10
     x2 = 20
-    #x3 = 30
+    x3 = 30
     result_queue = Queue()
 
     # We create two threads and pass shared queue to both of them.
     t1 = Thread(target=f1, args=(result_queue, x1))
     t2 = Thread(target=f2, args=(result_queue, x2))
-    #t3 = Thread(target=f3, args=(result_queue, x3))
+    t3 = Thread(target=f3, args=(result_queue, x3))
 
     # Starting threads...
     print("Start: %s" % time.ctime())
