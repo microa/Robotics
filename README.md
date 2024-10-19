@@ -60,7 +60,7 @@ This repository includes projects files of my works on Shenzhen Institute of Adv
 ## Patent
 
 1. A Multimodal Tactile Data Fusion Perception Method for Tumor Depth Recognition<br>
-<div style="margin-left: 20px;">
+<div style="margin-left: 80px;">
     Z. Zhou, Z. Yi, X. Wu, S. Fang, X. Li, **B. Huang**<br>
 </div>
 
