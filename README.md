@@ -49,19 +49,19 @@ This repository includes projects files of my works on Shenzhen Institute of Adv
    *2022 IEEE International Conference on Real-time Computing and Robotics (RCAR)* (2022)
 
 12. **Modeling and control strategy of flexible joint servo system in humanoid manipulator driven by tendon-sheath**  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;M. Yin, D. Shang, **B. Huang**, X. Wu, W. Feng  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;*Journal of Mechanical Science and Technology*, 36(5), 2585-2595 (2022)
+   M. Yin, D. Shang, **B. Huang**, X. Wu, W. Feng  
+   *Journal of Mechanical Science and Technology*, 36(5), 2585-2595 (2022)
 
 13. **RBF network-based adaptive sliding mode control strategy for the tendon-sheath driven joint of a prosthetic hand**  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;M. Yin, **B. Huang**, Z. Yi, S. Cai  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;*Technology and Health Care*, 30(5), 1155-1165 (2022)
+   M. Yin, **B. Huang**, Z. Yi, S. Cai  
+   *Technology and Health Care*, 30(5), 1155-1165 (2022)
 
 
 ## Patent
 
-<br>1. A Multimodal Tactile Data Fusion Perception Method for Tumor Depth Recognition
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Z. Zhou, Z. Yi, X. Wu, S. Fang, X. Li, **B. Huang**
-<br>2. A Soft Robotic Finger Mechanism with Tactile and Bending Sensing Capabilities
-<br>&nbsp;&nbsp;&nbsp;&nbsp;M. Yin, Z. Yi, X. Wu, **B. Huang**
-<br>3. A 3D Tactile Sensor Based on Photosensitive Elements
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Z. Yi, M. Yin, **B. Huang**, X. Wu
+1. A Multimodal Tactile Data Fusion Perception Method for Tumor Depth Recognition
+   Z. Zhou, Z. Yi, X. Wu, S. Fang, X. Li, **B. Huang**
+2. A Soft Robotic Finger Mechanism with Tactile and Bending Sensing Capabilities
+   M. Yin, Z. Yi, X. Wu, **B. Huang**
+3. A 3D Tactile Sensor Based on Photosensitive Elements
+   Z. Yi, M. Yin, **B. Huang**, X. Wu
