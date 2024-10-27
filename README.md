@@ -1,5 +1,5 @@
-## SIAT
-This repository includes projects files of my works on Shenzhen Institute of Advanced Technology (SIAT), Chinese Academic of Sciences (CAS).
+## Robotics
+This repository includes projects from my work at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), where I focused on tactile recognition and robotics.
 
 
 ## Publications
