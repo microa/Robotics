@@ -1,7 +1,7 @@
-## Robotics
+## Embodied Intelligence (Robotics)
 This repository showcases projects from my work at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), where I focused on tactile recognition and robotics. 
 Under the leadership of Dr. [Zhengkun Yi](https://people.ucas.edu.cn/~zhengkunyi?language=en), the head of our research group, I collaborated closely with both Dr. Yi and Dr. Meng Yin. 
-
+During this time, I also worked closely with my master's thesis advisor, Dr. [Putra Sumari](https://cs.usm.my/index.php/faculty-member/160-putrasumari). 
 
 ## Publications
 
