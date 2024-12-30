@@ -1,5 +1,6 @@
 ## Robotics
-This repository includes projects from my work at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), where I focused on tactile recognition and robotics.
+This repository showcases projects from my work at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), where I focused on tactile recognition and robotics. 
+Under the leadership of Dr. [Zhengkun Yi](https://people.ucas.edu.cn/~zhengkunyi?language=en), the head of our research group, I collaborated closely with both Dr. Yi and Dr. Meng Yin. 
 
 
 ## Publications
